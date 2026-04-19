@@ -1,0 +1,11 @@
+{
+  "editor.autoClosingQuotes": "always",
+  "editor.autoSurround": "quotes",
+  "[python]": {
+    "editor.autoClosingQuotes": "always"
+  },
+  "python-envs.defaultEnvManager": "ms-python.python:system",
+  "python.analysis.extraPaths": [
+    "./qc_app"
+  ]
+}

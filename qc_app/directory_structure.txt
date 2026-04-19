@@ -1,0 +1,14 @@
+qc_app/
+│── app/
+│   ├── main.py
+│   ├── api/
+│   ├── core/
+│   ├── models/
+│   ├── schemas/
+│   ├── services/
+│   ├── db/
+│   └── utils/
+│
+│── tests/
+│── venv/
+│── requirements.txt
